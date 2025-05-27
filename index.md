@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Virgina, VA"
   - "🚀 Interested in using data-driven analytics to drive insights in technology, finance, marketing, and economics."
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.jpg
+linkedin: https://www.linkedin.com/in/wisdom-agbeve/
+image: assets/images/wisdom.jpg
 ---
