@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Wisdom Agbeve
+description: Wisdom Agbeve CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "The only impossible journey is the one you never begin."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Sophomore, Computer Information Systems & Accounting @ Grambling State University"
+  - "🔬 Research:  AI-Driven Flight Delay Prediction Model for Climate-Resilient"
+  - "📍 Based in Virgina, VA"
+  - "🚀 Interested in using data-driven analytics to drive insights in technology, finance, marketing, and economics."
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
 image: /assets/images/me.jpg
