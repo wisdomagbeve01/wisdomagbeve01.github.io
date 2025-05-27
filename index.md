@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Interested in using data-driven analytics to drive insights in technology, finance, marketing, and economics."
 
 linkedin: https://www.linkedin.com/in/wisdom-agbeve/
-image: assets/images/wisdom.jpg
+image: assets/images/profile_pic.jpg
 ---
