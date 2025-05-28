@@ -4,27 +4,28 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Wisdom Agbeve
+  role: Sophomore, Computer Information Systems & Accounting at Grambling State University
+  image: assets/images/wisdom.jpg
+  linkedin: https://www.linkedin.com/in/wisdom-agbeve/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I'm a sophomore majoring in Computer Information Systems with a minor in Accounting at Grambling State University. I expect to graduate in 2028.
+  
+   My interests lie at the intersection of technology, data, and impact—exploring how digital tools, from software platforms to smart systems, can address real-world challenges like food insecurity and financial inclusion.
+  
+  Outside of class, I enjoy building startups with friends, participating in pitch competitions, and helping others grow through mentorship and collaborative learning. I’m also passionate about using data and tech to make meaningful change in underserved communities.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: ⚽
+      title: Playing Soccer
+      description: My favorite way to unwind and stay active.
+    - icon: 💡
+      title: Startups
+      description: I enjoy building ideas into impact-driven ventures.
+    - icon: 💻
+      title: Tech & Tools
+      description: I like exploring new platforms and coding for fun.
 
   gallery:
     - image: /assets/images/me-guitar.png
