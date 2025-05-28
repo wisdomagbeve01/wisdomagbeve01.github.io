@@ -28,12 +28,12 @@ about:
       description: I like exploring new platforms and coding for fun.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
+    - image: /assets/images/me_speech.png
+      caption: Giving a speech as a Student President
+    - image: assets/images/me_friends.png
+      caption: Hanging out with some friends 👩‍❤️‍💋‍👨
     - image: assets/images/wisdom.png
-      caption: Working on a personal project w/ the Raspberry PI
+      caption: My favorite portrait of myself :)
+    - image: assets/images/me_coca.png
+      caption: Showing my favorite beverage 😂
 ---
