@@ -9,11 +9,11 @@ about:
   image: assets/images/wisdom.jpg
   linkedin: https://www.linkedin.com/in/wisdom-agbeve/
   bio: |
-  I'm a sophomore majoring in Computer Information Systems with a minor in Accounting at Grambling State University. I expect to graduate in 2028.
+    I'm a sophomore majoring in Computer Information Systems with a minor in Accounting at Grambling State University. I expect to graduate in 2028.
   
-  My interests lie at the intersection of technology, data, and impact—exploring how digital tools, from software platforms to smart systems, can address real-world challenges like food insecurity and financial inclusion.
+    My interests lie at the intersection of technology, data, and impact—exploring how digital tools, from software platforms to smart systems, can address real-world challenges like food insecurity and financial inclusion.
   
-  Outside of class, I enjoy building startups with friends, participating in pitch competitions, and helping others grow through mentorship and collaborative learning. I’m also passionate about using data and tech to make meaningful change in underserved communities.
+    Outside of class, I enjoy building startups with friends, participating in pitch competitions, and helping others grow through mentorship and collaborative learning. I’m also passionate about using data and tech to make meaningful change in underserved communities.
 
 
   hobbies:
