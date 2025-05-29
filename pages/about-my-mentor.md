@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
+  name: Abiola Olayinka Ajala
   title: PhD Student, Electrical Engineering
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-kofi-nyarko
