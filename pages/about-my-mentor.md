@@ -11,7 +11,7 @@ graduate_mentor:
   bio: |
     Abiola Olayinka Ajala is a PhD student in Electrical and Computer Engineering at Morgan State University. Her research spans artificial intelligence, machine learning, and systems engineering, with a focus on data-driven solutions for real-world challenges.
 
-    As a mentor, Abiola brings valuable industry experience as a Business Analyst, Data Analyst, and AI/ML Engineer. Her guidance throughout this research program has been impactful—helping me understand technical concepts, stay organized, and think critically about the broader implications of our work.
+    As a mentor, Abiola brings valuable industry experience as a Business Analyst, Data Analyst, and AI/ML Engineer. Her guidance throughout this research program will be impactful—helping me understand technical concepts, staying organized, and thinking critically about the broader implications of our work.
 
 
 faculty_mentor:
