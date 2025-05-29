@@ -25,7 +25,7 @@ approach: |
 outcome: |
   The project aims to deliver a functional predictive tool for flight delay classification, a research poster, and a presentation. Results will include model comparisons, climate-impact insights, and a conceptual framework for integrating AI into national airspace decision-making systems.
 
-final_report_url: "In Progress"
+final_report_url: "https://docs.google.com/document/d/1aB-lyg8PdVZYLIxZVWYSKFnVLy1QuKLR/edit?usp=sharing&ouid=103100026359202502665&rtpof=true&sd=true"
 
 grad_mentor:
   name: "Abiola Olayinka Ajala"
