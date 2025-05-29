@@ -5,13 +5,14 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Abiola Olayinka Ajala
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
+  title: PhD Student, Electrical and Computer Engineering
+  image: assets/images/abiola.jpeg
   website: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-kofi-nyarko
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Abiola Olayinka Ajala is a PhD student in Electrical and Computer Engineering at Morgan State University. Her research spans artificial intelligence, machine learning, and systems engineering, with a focus on data-driven solutions for real-world challenges.
+
+    As a mentor, Abiola brings valuable industry experience as a Business Analyst, Data Analyst, and AI/ML Engineer. Her guidance throughout this research program has been impactful—helping me understand technical concepts, stay organized, and think critically about the broader implications of our work.
+
 
 faculty_mentor:
   name: Dr. Kofi Nyarko
