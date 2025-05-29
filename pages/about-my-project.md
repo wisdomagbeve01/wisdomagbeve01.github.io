@@ -1,8 +1,9 @@
+---
 layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: AI in Aviation & Climate Resilience  
+subtitle: "AI in Aviation & Climate Resilience"  
 project_title: "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management"
 
 problem: |
@@ -24,13 +25,13 @@ approach: |
 outcome: |
   The project aims to deliver a functional predictive tool for flight delay classification, a research poster, and a presentation. Results will include model comparisons, climate-impact insights, and a conceptual framework for integrating AI into national airspace decision-making systems.
 
-final_report_url: In Progress
+final_report_url: "In Progress"
 
 grad_mentor:
-  name: Abiola Olayinka Ajala
-  linkedin: https://www.linkedin.com/in/abiola-ajala-89a400272/
+  name: "Abiola Olayinka Ajala"
+  linkedin: "https://www.linkedin.com/in/abiola-ajala-89a400272/"
 
 faculty_mentor:
-  name: Dr. Kofi Nyarko
-  linkedin: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-kofi-nyarko
+  name: "Dr. Kofi Nyarko"
+  linkedin: "https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-kofi-nyarko"
 ---
