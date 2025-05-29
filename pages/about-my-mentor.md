@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-    name: Abiola Olayinka Ajala
+  name: Abiola Olayinka Ajala
   title: PhD Student, Electrical and Computer Engineering
   image: /assets/images/graduate-student-mentor.jpg
   website: https://github.com/wisdomagbeve01/wisdomagbeve01.github.io/edit/master/pages/about-my-mentor.md
