@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Abiola Olayinka Ajala
   title: PhD Student, Electrical and Computer Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://github.com/wisdomagbeve01/wisdomagbeve01.github.io/edit/master/pages/about-my-mentor.md
+  image: assets/images/abiola.jpeg
+  website: https://www.linkedin.com/in/abiola-ajala-89a400272/
   bio: |
     Abiola Olayinka Ajala is a PhD student in Electrical and Computer Engineering at Morgan State University. Her research spans artificial intelligence, machine learning, and systems engineering, with a focus on data-driven solutions for real-world challenges.
 
