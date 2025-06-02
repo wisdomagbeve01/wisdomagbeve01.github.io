@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Wisdom Agbeve
   role: Sophomore, Computer Information Systems & Accounting at Grambling State University
-  image: assets/images/wizzy.jpg
+  image: assets/images/blahhh.jpg
   linkedin: https://www.linkedin.com/in/wisdom-agbeve/
   bio: |
     I'm a sophomore majoring in Computer Information Systems with a minor in Accounting at Grambling State University. I expect to graduate in 2028.
